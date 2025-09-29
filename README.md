@@ -13,7 +13,7 @@ Many more such insights were made that helped the stakeholders have an idea abou
 
 # Dashboard Design
 1.	Sales Overview: <br>
-    total revenue, sales trend, top categories.
+    Total revenue, sales trend, top categories.
 2.	Time Series Analysis: <br> 
 The profit with respect to the year, month, quarter & date. The graph gives us an idea that greater revenue & profit is generated towards the end of the year that is in the months of October, November & December. This chart is also affected by the Country & Year slicers on the top.
 

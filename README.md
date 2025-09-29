@@ -8,15 +8,16 @@ Further, diving into the product section we see that only 2 products namely phon
 Many more such insights were made that helped the stakeholders have an idea about the problems in their business and necessary measures were taken to fix them.
 
 # Assumption:
-•	The data does not contain manually created bias.
-•	Live updates depend on syncing frequency (daily/hourly).
+•	The data does not contain manually created bias.<br>
+•	Live updates depend on syncing frequency (daily/hourly).<br>
 
 # Dashboard Design
-1.	Sales Overview – total revenue, sales trend, top categories.
-2.	Time Series Analysis – 
+1.	Sales Overview: <br>
+    total revenue, sales trend, top categories.
+2.	Time Series Analysis: <br> 
 The profit with respect to the year, month, quarter & date. The graph gives us an idea that greater revenue & profit is generated towards the end of the year that is in the months of October, November & December. This chart is also affected by the Country & Year slicers on the top.
 
-3.	Top Categories - 
+3.	Top Categories:<br>
 Total Sales by sub category is affected by the slicer Top N slicer on the top right corner. The default in the slicer gives us the value for all the sub category, top 10 gives us the value for the top 10 sub category by the total sales & the same way top 5 & top 20 are provide the required bars in the chart.
 
 # Analysis:
